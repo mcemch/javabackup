@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<schedule>
+<destDir>/tmp/backup</destDir>
+<backupList>
+<backupEntry name="/home/memch/Downloads" value="1"/>
+</backupList>
+</schedule>

@@ -1,0 +1,27 @@
+The javabackup Desktop Backup Application
+
+    The javabackup application is essentially a java gui front-end to rsync.
+    cw_rsync comes bundled with the application for windows users.  All of
+    the appropriate licenses are included in the jar file.
+
+How to Build:
+
+    Download the Netbeans IDE and import the project.
+
+How to Run:
+
+    java -jar JavaBackup.jar
+
+Platforms:
+
+    The javabackup application currently works on Linux and Windows.  It should
+    work on OS X and Solaris also but has not yet been tested there.
+
+Author:
+
+    (c) 2011 Michael Emch
+
+License:
+
+    http://www.gnu.org/licenses/gpl-2.0.html
+
